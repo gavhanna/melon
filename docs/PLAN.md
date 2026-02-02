@@ -33,7 +33,7 @@ I love tanstack router so ill go with that, i dont believe i will need SSR so wo
 #### Backend
 
 - Bun
-- express (screw it, im familiar with it)
+- Might start with bun serve and if i end up needing a framework i can switch later. people seem to like hono?
 - maybe Postgres as i run that on my own server for a bunch of stuff already
 - ORM... drizzle perhaps
 
