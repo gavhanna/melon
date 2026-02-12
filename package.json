@@ -4,6 +4,11 @@
   "workspaces": ["packages/*"],
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "dev": "bun run --watch --",
+    "build": "bun run build",
+    "start": "bun run start"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
